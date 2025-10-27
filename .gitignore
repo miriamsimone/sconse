@@ -1,0 +1,44 @@
+# Xcode & SwiftPM
+DerivedData/
+xcuserdata/
+.build/
+
+# Firebase secrets
+messageAI/Resources/GoogleService-Info.plist
+
+# Environment variables
+.env
+ai-microservice/.env
+
+# Virtual environments and Python cache
+venv*/
+ai-microservice/venv*/
+**/venv*/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# AWS SAM build directories
+**/.aws-sam/
+backend/lambda/.aws-sam/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+.dockerignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+

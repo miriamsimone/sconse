@@ -1,0 +1,12 @@
+{
+  "aps": {
+    "alert": {
+      "title": "New message from Blueberry",
+      "body": "Hey guys ready to ..."
+    },
+    "sound": "default"
+  },
+  "conversationId": "QoZoJZIUBbqKuXbdE9rE",
+  "senderDisplayName": "Melon",
+  "messagePreview": "Hey guys ready to ..."
+}
